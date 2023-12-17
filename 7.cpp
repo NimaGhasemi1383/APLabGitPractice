@@ -8,3 +8,4 @@ int main()
 	printf("%d", *p);
 	return 0;
 }
+// the output of the program is 3
