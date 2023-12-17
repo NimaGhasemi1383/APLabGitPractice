@@ -31,7 +31,7 @@ int main() {
 	container c1(100);
 	vector v1 = c1;
 	container& r1 = v1;
-	container c2 = 100;
+	container c2 = 10000;
 	c2.getsize() = 20;
 	cout << c2.getsize();
 	vector v2 = 100;
